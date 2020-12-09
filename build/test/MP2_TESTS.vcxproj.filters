@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Users\August\Documents\2 course programs\Lab5. MultiStack\Lab5\test\test_TMultiStack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\August\Documents\2 course programs\Lab5. MultiStack\Lab5\test\test_TStack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Users\August\Documents\2 course programs\Lab5. MultiStack\Lab5\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Users\August\Documents\2 course programs\Lab5. MultiStack\Lab5\test\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1AD10C2F-FE26-3004-802E-EC5DD041B55D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

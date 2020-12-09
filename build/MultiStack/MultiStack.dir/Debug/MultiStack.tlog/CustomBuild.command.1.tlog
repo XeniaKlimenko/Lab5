@@ -1,0 +1,10 @@
+^D:\USERS\AUGUST\DOCUMENTS\2 COURSE PROGRAMS\LAB5. MULTISTACK\LAB5\MULTISTACK\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/Users/August/Documents/2 course programs/Lab5. MultiStack/Lab5" "-BD:/Users/August/Documents/2 course programs/Lab5. MultiStack/Lab5/build" --check-stamp-file "D:/Users/August/Documents/2 course programs/Lab5. MultiStack/Lab5/build/MultiStack/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,7 @@
+D:/Users/August/Documents/2 course programs/Lab5. MultiStack/Lab5/build/CMakeFiles/ALL_BUILD.dir
+D:/Users/August/Documents/2 course programs/Lab5. MultiStack/Lab5/build/CMakeFiles/ZERO_CHECK.dir
+D:/Users/August/Documents/2 course programs/Lab5. MultiStack/Lab5/build/gtest/CMakeFiles/gtest.dir
+D:/Users/August/Documents/2 course programs/Lab5. MultiStack/Lab5/build/StackLib/CMakeFiles/StackLib.dir
+D:/Users/August/Documents/2 course programs/Lab5. MultiStack/Lab5/build/MultiStack/CMakeFiles/MultiStack.dir
+D:/Users/August/Documents/2 course programs/Lab5. MultiStack/Lab5/build/main/CMakeFiles/main.dir
+D:/Users/August/Documents/2 course programs/Lab5. MultiStack/Lab5/build/test/CMakeFiles/MP2_TESTS.dir
